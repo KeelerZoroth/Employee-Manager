@@ -107,7 +107,7 @@ class CLI {
             if (!this.exit){
                 this.start(); 
             } else {
-                pool.end()
+                process.exit();
             }
         });
     };
