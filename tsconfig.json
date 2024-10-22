@@ -1,3 +1,4 @@
+/* !!! this file was copied from week 10 on the SMU bootcamp !!! */
 {
   "compilerOptions": {
     "target": "ES2020",
